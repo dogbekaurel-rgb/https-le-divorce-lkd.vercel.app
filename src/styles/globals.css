@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+  --color-primary: #0f172a;
+  --color-accent: #e11d48;
+}
+
+html,body,#root{
+  height:100%;
+}
+
+body{
+  background-color: #ffffff;
+  color: var(--color-primary);
+}
+
+.container{
+  max-width: 1120px;
+}
