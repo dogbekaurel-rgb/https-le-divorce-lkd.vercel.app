@@ -9,7 +9,7 @@ export default function Home() {
       <div className="mt-12 grid gap-8 md:grid-cols-3">
         <article className="p-6 border rounded-lg shadow-sm">
           <h2 className="text-xl font-semibold mb-2">Galerie</h2>
-          <p className="text-sm text-gray-600">Placeholder pour la galerie d'images et vidéos.</p>
+          <p className="text-sm text-gray-600">Placeholder pour la galerie d&apos;images et vidéos.</p>
         </article>
 
         <article className="p-6 border rounded-lg shadow-sm">
@@ -24,7 +24,7 @@ export default function Home() {
       </div>
 
       <section className="mt-12 max-w-2xl mx-auto text-center text-gray-700">
-        <p>Le site est en construction — utilisez les issues et projets pour suivre l'avancement.</p>
+        <p>Le site est en construction — utilisez les issues et projets pour suivre l&apos;avancement.</p>
       </section>
     </section>
   )
